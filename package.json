@@ -9,6 +9,7 @@
   "author": "Arthur Kay",
   "license": "MIT",
   "dependencies": {
+    "atob": "^2.1.2",
     "express": "^4.17.1"
   }
 }

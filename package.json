@@ -1,0 +1,14 @@
+{
+  "name": "hack-that",
+  "version": "1.0.0",
+  "description": "Intro to Hacking Web Applications (2019 ThatConference workshop)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Kay",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
